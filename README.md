@@ -52,6 +52,15 @@ Convert a PDF to PNG images at 300 DPI (default):
 python pdf_rasterizer.py document.pdf
 ```
 
+### macOS Integration
+
+**Right-click any PDF in Finder!** The tool can be integrated with macOS using Automator Quick Actions for convenient right-click access. See [macOS Integration Guide](macos_integration.md) for setup instructions.
+
+- ✅ Right-click PDF → "Flatten PDF" 
+- ✅ Right-click PDF → "Convert to Images"
+- ✅ Works with multiple selected files
+- ✅ Automatic notifications when complete
+
 ### Advanced Usage
 
 ```bash
